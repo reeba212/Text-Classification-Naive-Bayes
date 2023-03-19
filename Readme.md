@@ -32,7 +32,7 @@ This will open the Jupyter Notebook interface in your web browser. From here, yo
 
 ## Result
 
-After training the model on the newsgroups dataset, we achieved an accuracy of over 87% on the test set. This demonstrates that the model is effective at classifying articles in the newsgroups dataset.
+After training the model on the newsgroups dataset, I achieved an accuracy of over 87% on the test set. This demonstrates that the model is effective at classifying articles in the newsgroups dataset.
 
 ## Conclusion
 
